@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Aplikasi Cerita</string>
+    <string name="desc_img_story">Deskripsi Gambar Cerita</string>
+    <string name="gambar_hasil_upload">Gambar yang Telah Diunggah</string>
+    <string name="register">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="belum_daftar">Belum Mendaftar?</string>
+    <string name="email">Surel</string>
+    <string name="password">Kata Sandi</string>
+    <string name="sign_in">Masuk</string>
+    <string name="sudah_punya_akun">Sudah Memiliki Akun?</string>
+    <string name="sign_up">Daftar</string>
+    <string name="gambar_story">Gambar Cerita</string>
+    <string name="deskripsi">Keterangan</string>
+    <string name="upload">Unggah</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="nama">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="logo_dicoding_story">Logo Cerita Dicoding</string>
+    <string name="belum_punya_akun">Belum Memiliki Akun?</string>
+    <string name="email_created">Surel Telah Terdaftar</string>
+    <string name="password_invalid_input">Kata Sandi harus memiliki minimal 6 karakter</string>
+    <string name="please_input_image">Harap Masukkan Gambar</string>
+    <string name="please_input_description">Harap Masukkan Keterangan</string>
+    <string name="email_must_valid">Surel Harus Valid</string>
+    <string name="invalid_password">Kata Sandi Anda Salah</string>
+    <string name="user_not_found">Akun Tidak Ditemukan</string>
+    <string name="error_empty_description">Keterangan Tidak Boleh Kosong</string>
+</resources>
